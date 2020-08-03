@@ -1,6 +1,6 @@
 
 
-### Hi there 👋.
+
 
 ![profile-image](https://github.com/olumidayy/olumidayy/blob/master/Screenshot%20(153).png)
 
