@@ -2,7 +2,7 @@
 
 
 
-![profile-image](https://github.com/olumidayy/olumidayy/blob/master/Screenshot%20(153).png)
+![profile-image](https://ibb.co/mB0cPNx)
 
 #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
 
