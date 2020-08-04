@@ -1,6 +1,6 @@
 
 
-![profile-image](https://ibb.co/mB0cPNx)
+![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
 #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
 
