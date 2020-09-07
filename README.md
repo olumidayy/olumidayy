@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on Flutter apps
 - 🌱 I’m currently learning Dart & Flutter
 - 👯 I’m looking to collaborate on open source projects.
-- ⚡ Fun fact: I was the Headboy at my High School
 - 📫 How to reach me: [olumidenwosu@gmail.com](mailto:olumidenwosu@gmail.com)
 - 😄 Pronouns: He/Him
 
