@@ -7,8 +7,8 @@
 
 ### Skills: Dart (Flutter), Javascript (Node), Python .
 
-- 🔭 I’m currently working on Flutter apps
-- 🌱 I’m currently learning Dart & Flutter
+- 🔭 I’m currently working on Flutter and Node.js apps
+- 🌱 I’m currently learning Node.js, Dart & Flutter
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [olumidenwosu@gmail.com](mailto:olumidenwosu@gmail.com)
 - 😄 Pronouns: He/Him
