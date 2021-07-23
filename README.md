@@ -1,27 +1,29 @@
 
 
-![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
+<div align="center">
+  ![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
-#### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
+  #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
 
 
-### Skills: Dart (Flutter), Javascript (Node), Python .
+  ### Skills: Dart (Flutter), Javascript (Node), Python .
 
-- 🔭 I’m currently working on Flutter and Node.js apps
-- 🌱 I’m currently learning Node.js, Dart & Flutter
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [olumidenwosu@gmail.com](mailto:olumidenwosu@gmail.com)
-- 😄 Pronouns: He/Him
+  - 🔭 I’m currently working on Flutter and Node.js apps
+  - 🌱 I’m currently learning Node.js, Dart & Flutter
+  - 👯 I’m looking to collaborate on open source projects.
+  - 📫 How to reach me: [olumidenwosu@gmail.com](mailto:olumidenwosu@gmail.com)
+  - 😄 Pronouns: He/Him
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/nwosu-olumide-b7941318b/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/olumidenwosu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/olumidayy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/olumidayy)
-<!-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true) -->
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olumidayy&theme=tokyonight">
-</p> 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/nwosu-olumide-b7941318b/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/olumidenwosu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/olumidayy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/olumidayy)
+  <!-- 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true) -->
+  <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true&theme=tokyonight&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olumidayy&theme=tokyonight">
+  </p> 
 
-![Profile views](https://gpvc.arturio.dev/olumidayy)
+  ![Profile views](https://gpvc.arturio.dev/olumidayy)
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
