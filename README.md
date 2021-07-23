@@ -18,8 +18,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/olumidayy)
-<img src = "https://github-readme-stats.vercel.app/api?username=Babatunde13&show_icons=true&theme=tokyonight&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Babatunde13&theme=tokyonight">
+<img src = "https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true&theme=tokyonight&line_height=27">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olumidayy&theme=tokyonight">
 
 <!--
 - 🔭 I’m currently working on ...
