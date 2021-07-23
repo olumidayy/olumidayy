@@ -4,6 +4,7 @@
   ![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
   #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
+</div>
 
 
   ### Skills: Dart (Flutter), Javascript (Node), Python .
@@ -23,7 +24,7 @@
   </p> 
 
   ![Profile views](https://gpvc.arturio.dev/olumidayy)
-</div>
+
 
 <!--
 - 🔭 I’m currently working on ...
