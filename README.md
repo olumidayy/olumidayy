@@ -5,10 +5,8 @@
   ![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
   #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
+  ### Skills: Dart (Flutter), Javascript (Node), Python, C# .
 </div>
-
-
-  ### Skills: Dart (Flutter), Javascript (Node), Python .
 
   - 🔭 I’m currently working on Flutter and Node.js apps
   - 🌱 I’m currently learning Node.js, Dart & Flutter
@@ -23,8 +21,11 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true&theme=tokyonight&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olumidayy&theme=tokyonight">
   </p> 
-
+<p align = "center">
+  
   ![Profile views](https://gpvc.arturio.dev/olumidayy)
+  
+</p>
 
 
 <!--
