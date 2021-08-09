@@ -5,7 +5,7 @@
   ![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
   #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
-  ### Skills: Dart (Flutter), Javascript (Node), Python, C# .
+  ### Skills: Javascript (Node), Python, C# .
 </div>
 
   - 🔭 I’m currently working on Flutter and Node.js apps
