@@ -5,11 +5,11 @@
   ![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
   #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
-  ### Skills: Javascript (Node), Python, C# .
+  ### Skills: Javascript (Node), Python, C#, Go.
 </div>
 
-  - 🔭 I’m currently working on Flutter and Node.js apps
-  - 🌱 I’m currently learning Node.js, Dart & Flutter
+  - 🔭 I’m currently working on Golang and Node.js apps
+  - 🌱 I’m currently learning Node.js & Go
   - 👯 I’m looking to collaborate on open source projects.
   - 📫 How to reach me: [olumidenwosu@gmail.com](mailto:olumidenwosu@gmail.com)
   - 😄 Pronouns: He/Him
