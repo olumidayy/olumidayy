@@ -4,7 +4,7 @@
   
   ![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
-  #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems .
+  #### I'm from Lagos, Nigeria, I try to write code 💻 and solve problems.
   ### Skills: Javascript (Node), Python, C#, Go.
 </div>
 
@@ -28,7 +28,7 @@
   </p> 
 <div align = "center">
   
-  ![Profile views](https://gpvc.arturio.dev/olumidayy)
+  ![Profile views](https://komarev.com/ghpvc/?username=olumidayy&color=green)
   
 </div>
 
